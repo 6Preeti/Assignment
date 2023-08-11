@@ -1,0 +1,169 @@
+.heading{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-family:sans-serif;
+    padding-bottom: 10px;
+}
+#register1{
+    background-color: white;
+    width: 350px;
+    padding:24px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#input{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.input-label{
+    margin:0;
+    margin-top:15px;
+    margin-bottom:3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.Submit-button{
+    width:100%;
+    background-color: rgb(26, 86, 154);
+    border-radius: 6px;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 15px;
+}
+.input-item{
+    width:100%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#terms-check{
+    margin-top:12px;
+    margin-bottom: 30px;
+}
+.text{
+    text-align: center;
+    margin-top: 12px;
+    padding-top: 10px;
+}
+#login{
+    text-decoration: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* Apply styles to the pricing container */
+  .pricing-container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 700px;
+    width: 1000px;
+    border-radius: 20px;
+  }
+  .header{
+    font-size: 25px;
+    text-align:left;
+    font-weight: 600;
+    font-family:sans-serif;
+}
+#register2{
+    background-color: white;
+    width: 550px;
+    padding:25px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#act1{
+    background-color:rgb(194, 215, 252);
+    font-size: 15px;
+    color: rgb(26, 86, 154);
+    padding-left: 5px;
+    padding-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    position: static;
+}
+#act2{
+    background-color:rgb(255, 231, 231);
+    font-size: 15px;
+    color: rgb(248, 98, 106);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    position: static;
+}
+#cancel{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(26, 86, 154);
+    margin-left: 150px;
+}
+.Price{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.detail{
+    padding-top: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bas{
+    color: rgba(41, 11, 11, 0.9);
+}
+#ph{
+    color: rgba(129, 127, 127, 0.9);
+}
+.button{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.Change-button{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color:rgb(51, 107, 172);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color:rgb(74, 130, 194);
+}
+#pr{
+    font-weight: 600;
+}
+.footer{
+    background-color:rgb(247, 246, 246);
+    font-size:15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
