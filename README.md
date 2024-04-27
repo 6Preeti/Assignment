@@ -1,1 +1,1 @@
-# RichPanel_Assignment
+# Assignment
